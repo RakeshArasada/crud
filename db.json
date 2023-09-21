@@ -1,0 +1,60 @@
+{
+  "driver": [
+    {
+      "id": 1,
+      "name": "rishesh",
+      "email": "rfesh@qwe344",
+      "phone": "r3372",
+      "address": "asrth",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "tulasi",
+      "email": "tulasi@123",
+      "phone": "8978478196",
+      "address": "aee",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "yamini",
+      "email": "qwREA",
+      "phone": "AT4NJEZ",
+      "address": "SYNRMRH",
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "AKJIL",
+      "email": "aesr",
+      "phone": "srnghy",
+      "address": "esdrtgd",
+      "active": true
+    },
+    {
+      "id": 5,
+      "name": "bharath",
+      "email": "estdrf",
+      "phone": "trynkmde5",
+      "address": "trdy5nme43e3e3e3e3e3e3e",
+      "active": true
+    },
+    {
+      "id": 6,
+      "name": "rakesh",
+      "email": "rakesh@123",
+      "phone": "1234567890",
+      "address": "vizianagaram",
+      "active": true
+    },
+    {
+      "id": 7,
+      "name": "dxrm,tu",
+      "email": "shtrstrhtdrtum@zdfhg.com",
+      "phone": "jtjttrx ,",
+      "address": "xfjgxjgfxjfg",
+      "active": true
+    }
+  ]
+}
